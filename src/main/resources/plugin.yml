@@ -1,0 +1,4 @@
+name: Lorain
+version: '${project.version}'
+main: me.drwoops.lorain.Lorain
+api-version: 1.18
